@@ -1,0 +1,1 @@
+Bỏ krpano.exe vào đây

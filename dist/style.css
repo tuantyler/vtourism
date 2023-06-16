@@ -1,0 +1,17 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+}
+
+#container {
+  width: 100%;
+  height: 100%;
+}
+
+#panel {
+  width: 320px;
+  height: 240px;
+  background-color: #fff;
+}
